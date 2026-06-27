@@ -12,7 +12,7 @@
 ## 🛠 Tech Stack & Expertise
 * **Systems:** Proxmox, LXC Containers, Nextcloud, Plex, Linux.
 * **Automation:** Python, PyQt6, Airtable, Make.com.
-* **Hardware:** BMW Platform Diagnostics (E30/E36), Custom PC Building, Cyberdeck Design.
+* **Hardware:** PC Building, Troubleshooting, and Repairs.
 
 ---
 
