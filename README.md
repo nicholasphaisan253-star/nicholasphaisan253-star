@@ -25,5 +25,5 @@
 ---
 
 ## 🌐 Connect With Me
-* **Professional Portfolio:** [phaisanits.netlify.app](https://phaisanits.netlify.app/)
+* **Website:** [phaisanits.netlify.app](https://phaisanits.netlify.app/)
 * **Email:** nicholasphaisan253@gmail.com
