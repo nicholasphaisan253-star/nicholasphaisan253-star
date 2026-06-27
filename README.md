@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Nicholas Phaisan</h1>
 
-<!--
-**nicholasphaisan253-star/nicholasphaisan253-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">IT Specialist | Network • Systems • Hardware</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Welcome to my GitHub! I am a professional IT Specialist focused on building robust infrastructure, 
+  automating workflows, and performing hardware diagnostics.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack & Expertise
+* **Systems:** Proxmox, LXC Containers, Nextcloud, Plex, Linux.
+* **Automation:** Python, PyQt6, Airtable, Make.com.
+* **Hardware:** BMW Platform Diagnostics (E30/E36), Custom PC Building, Cyberdeck Design.
+
+---
+
+## 📈 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicholasphaisan253-star&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasphaisan253-star&layout=compact" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+* **Professional Portfolio:** [phaisanits.netlify.app](https://phaisanits.netlify.app/)
+* **Email:** nicholasphaisan253@gmail.com
