@@ -18,8 +18,7 @@
 
 ## 📈 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicholasphaisan253-star&show_icons=true&theme=tokyonight" />
-  <img
+  <img src="https://github-readme-stats.vercel.app/api?username=nicholasphaisan253-star&show_icons=true&theme=tokyonight&cache_bust=1" />
 </p>
 
 ---
